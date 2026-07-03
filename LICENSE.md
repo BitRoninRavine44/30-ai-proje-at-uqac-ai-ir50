@@ -1,4 +1,4 @@
-# 
+# Nouveau 30+ AI Projects at UQAC scripts. Avec analytique prédictive et modèles d'apprentissage profond — optimisé pour des performances maximales.
 
 
 
